@@ -1,0 +1,23 @@
+# Dart / Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Logs
+*.log
+*.old
+
+# Chrome / browser data (اللي صار معك)
+Local Storage/
+Session Storage/
+Service Worker/
+Cache/
+Cookies/
+History/
+GCM Store/
+LevelDB/
+Database/
+
+# system
+.DS_Storegit add .
