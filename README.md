@@ -10,7 +10,7 @@ A modern, intuitive **personal finance management application** built with **Flu
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/05688ade-7ee2-4871-a125-7834e4d23842
+https://github.com/user-attachments/assets/8ea98911-92db-4ab5-8eb2-68526a2934a8
 
 ---
 
