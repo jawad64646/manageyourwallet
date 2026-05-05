@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 A modern, intuitive **personal finance management application** built with **Flutter**. Designed to help users track their income, manage expenses, and visualize their financial health through a clean, responsive, and data-driven interface.
 
@@ -122,4 +122,6 @@ If you like this project, please give it a ⭐ on [GitHub](https://github.com/ja
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source and available under the Apache License 2.0.
+
+See the LICENSE file for more details.
